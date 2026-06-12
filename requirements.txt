@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-contrib-python>=4.10
+
+# Optional DeepFace backend. Prefer Python 3.11 or 3.12 if you enable this.
+# deepface>=0.0.93
+# pandas>=2.2
